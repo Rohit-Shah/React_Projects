@@ -1,0 +1,16 @@
+.form{
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+    background-color: #ebebe9;
+    width: 100%;
+    padding: 10px;
+}
+
+.formControl{
+    display: flex;
+}
+
+.form_input{
+    flex: 1;
+}
